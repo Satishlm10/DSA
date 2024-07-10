@@ -19,7 +19,7 @@ public class HashTables {
 
         System.out.println("Hash Table Example"+hashtable);
 
-        System.out.println(hashtable.size());
+
 
        }
 }
